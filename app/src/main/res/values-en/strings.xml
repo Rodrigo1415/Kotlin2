@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="tvName">Name</string>
+    <string name="tvCorreo">Password</string>
+    <string name="etName">Name</string>
+    <string name="etCorreo">Password</string>
+    <string name="B1">Hello</string>
+    <string name="B2">Clean</string>
+    <string name="B3">Access</string>
+    <string name="gtName">Aqui obtendremos el nombre</string>
+</resources>

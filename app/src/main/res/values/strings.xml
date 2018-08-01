@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="tvName">Nombre</string>
+    <string name="tvCorreo">Correo</string>
+    <string name="etName">Nombre</string>
+    <string name="etCorreo">Correo</string>
+    <string name="B1">Saludame</string>
+    <string name="B2">Limpiar</string>
+    <string name="B3">Algo</string>
+    <string name="gtName">Aqui obtendremos el nombre</string>
+</resources>
